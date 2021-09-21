@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+Flickr_Data
+flickr8k-sau
+/archive.zip
 # Distribution / packaging
 .Python
 build/
